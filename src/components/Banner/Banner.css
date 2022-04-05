@@ -1,0 +1,17 @@
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+.banner-left h1{
+    font-size: 50px;
+    color: #1C2B35;
+}
+.banner-left button{
+    padding: 20px;
+     
+    background-color: rgba(20, 181, 181, 0.637);
+    border: none;
+    border-radius: 5px;
+}
